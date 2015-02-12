@@ -1,0 +1,12 @@
+{
+    "name": "fabik/react-test",
+    "authors": [
+        {
+            "name": "Jan-Sebastian Fabík",
+            "email": "honza@fabik.org"
+        }
+    ],
+    "require": {
+    	"react/react": "0.4.*"
+    }
+}
